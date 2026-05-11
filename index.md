@@ -19,7 +19,6 @@ TBA
 
 ## PROGRAM (subject to change)
 
----
 
 ## Thursday 25 June 2026
 
@@ -51,13 +50,6 @@ TBA
 - Xiaojin Li, Yan Huang, Rashmie Abeysinghe, Zenan Sun, Hongyu Chen, Pengze Li, Xing He, Shiqiang Tao, Cui Tao, Jiang Bian, Licong Cui, Guo-Qiang Zhang,    *Temporal ensemble logic for integrative representation of the entirety of clinical trials* 
 - Alexander Williams, Gregor Meehan, Stefan Lattner, Johan Pauwels, Mathieu Barthet, *Temporal Considerations in DJ Mix Information Retrieval and Generation* 
 
-&nbsp;  
-&nbsp;  
-
-
-
----
-
 ## Friday 26 June 2026
 
 **09:30 – 10:30**  Invited Tutorial
@@ -77,9 +69,6 @@ TBA
 - Arthur Jansen, Bart Kuijpers, *Solutions to the generalised alibi query in moving object databases*  
 - Arthur Jansen, Bart Kuijpers,   *Visit probability in space-time prisms for moving object data* (short talk)
 - Nassim Belmecheri, *QualiNet: Acquiring Bird's Eye View Qualitative Spatial Representation from 2D Images in Automated Vehicle Perception* (short talk)
-
-
-
 
 
 ## Organisation
