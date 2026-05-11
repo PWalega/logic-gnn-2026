@@ -12,7 +12,7 @@ h1:first-of-type {
 
 <p style="text-align: center"><img src="logo.png" width="100%"></p>
 
-We are delighted to organise a meeting on logics and graph neural networks (GNNs) at Queen Mary University of London!
+We are delighted to organise a meeting on logics and graph neural networks (GNNs) in [Queen Mary University of London](https://www.qmul.ac.uk/)!
 
 We observe a growing interest in combining logical and neural approaches, with GNNs proving to be a particularly well-suited AI architecture for such an integration. As a result, tight connections between logics and GNNs are attracting increasing attention, with current directions including:
 
@@ -32,7 +32,7 @@ Talks are by invitation only, whereas attendance is open, but requires registrat
 Queen Mary University of London,
 Mile End campus, London E1 4NS,
 
-**Maths Lecture Theatre**, building number 4 [on the campus map](https://www.qmul.ac.uk/about/howtofindus/mileend/)
+Maths Lecture Theatre—building number 4 [on the campus map](https://www.qmul.ac.uk/about/howtofindus/mileend/)
 
 ## Registration
 
