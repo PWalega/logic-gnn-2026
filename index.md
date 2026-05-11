@@ -49,6 +49,6 @@ Mile End Road, London E1 4NS.
 
 TBA
 
-## Organisers
+## Organisation
 
 - [Przemysław Wałęga](mailto:your-p.walega@qmul.ac.uk), Queen Mary University of London
