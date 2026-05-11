@@ -3,7 +3,7 @@ layout: default
 title: Logic and Graph Neural Networks Workshop
 ---
 
-<p style="text-align: center"><img src="logo.png" width="800%"></p>
+<p style="text-align: center"><img src="logo.png" width="100%"></p>
 
 ## Venue
 
