@@ -4,14 +4,11 @@ title: ""
 ---
 
 <style>
-h1:first-of-type {
-  display: none;
-}
+  #header_wrap, .page-header, header.site-header, #project_title, .masthead, .site-title {
+    display: none !important;
+  }
 </style>
 
-<p style="text-align: center">
-  <img src="logo.png" width="100%">
-</p>
 
 <p style="text-align: center"><img src="logo.png" width="100%"></p>
 
