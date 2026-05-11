@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<style>.page-header { display: none; }</style>
+<style>
+.page-header { display: none !important; }
+</style>
 
 <p style="text-align: center"><img src="logo.png" width="100%"></p>
 
