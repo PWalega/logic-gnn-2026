@@ -4,9 +4,9 @@ title: ""
 ---
 
 <style>
-  #header_wrap, .page-header, header.site-header, #project_title, .masthead, .site-title {
-    display: none !important;
-  }
+h1:first-of-type {
+  display: none;
+}
 </style>
 
 
