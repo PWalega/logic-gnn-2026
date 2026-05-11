@@ -1,10 +1,17 @@
 ---
 layout: default
+title: ""
 ---
 
 <style>
-.page-header { display: none !important; }
+h1:first-of-type {
+  display: none;
+}
 </style>
+
+<p style="text-align: center">
+  <img src="logo.png" width="100%">
+</p>
 
 <p style="text-align: center"><img src="logo.png" width="100%"></p>
 
