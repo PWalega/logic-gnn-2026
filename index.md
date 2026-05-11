@@ -14,10 +14,9 @@ h1:first-of-type {
 
 ## Venue
 
-School of Electronic Engineering and Computer Science,
 Queen Mary University of London,
-Mile End Road, London E1 4NS.
-[Travel directions](https://www.qmul.ac.uk/about/howtofindus/mileend/)
+Mile End campus, London E1 4NS,
+*Maths Lecture Theatre*, building 4 [on the map](https://www.qmul.ac.uk/about/howtofindus/mileend/)
 
 ## Registration
 
@@ -80,4 +79,4 @@ TBA
 
 ## Organisation
 
-- [Przemysław Wałęga](mailto:your-p.walega@qmul.ac.uk), Queen Mary University of London
+- [Przemysław Wałęga](mailto:your-p.walega@qmul.ac.uk), School of Electronic Engineering and Computer Science, Queen Mary University of London
