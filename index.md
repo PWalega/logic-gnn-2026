@@ -48,14 +48,14 @@ TBA
 **9:45 – 10:00** Opening Talk
 
 **10:00 – 11:00** Session Chair:
-- 
-- 
+- Floris Geerts, *A Logical View of GNN-Style Computation and the Role of Activation Functions*
+- Jonni Virtema, *Unifying approach to uniform expressivity of graph neural networks*
 
 **11:00 – 11:30**  Coffee break
 
 **11:30 – 12:30** Session Chair: 
-- Chia-Hsuan Lu, *Decidability of Graph Neural Networks via Logical Characterizations*
-- François Schwarzentruber, *Verifying Quantized Graph Neural Networks is PSPACE-complete*
+- David Tena Cucala, *Practical Rule Extraction from Monotonic GNNs*
+- Przemek Wałęga, *Preservation Theorems for GNNs*
 
 **12:30 – 14:00**  Lunch break
 
@@ -66,30 +66,34 @@ TBA
 
 **15:30 – 16:00**  Coffee break
 
-**16:00 – 17:30** Session Chair:
-- 
--
+**16:00 – 17:00** Session Chair:
+- Discussion panel: Floris Geerts, François Schwarzentruber, Antti Kuusisto, Michael Benedikt, Bernardo Cuenca Grau
 
 
 ## Friday 26 June 2026
 
-**09:30 – 10:30**  Invited Tutorial
-- Nicola Gigante, *An introduction to first-order linear temporal logic*
+**10:00 – 11:00** Session Chair:
+- Antti Kuusisto, *Characterizing recurrent GNNs and NNs*
+- Eva Feng, *The Correspondence between Bounded GNNs and Fragments of FOL*
 
-**10:30 – 11:00**  Coffee break
+**11:00 – 11:30**  Coffee break
 
-**11:00 – 12:50**  Session 5: Temporal Logics and Uncertainty (Chair: Thierry Vidal)
-- Livia Blasi, Luigi Bellomarini, Emanuel Sallinger, Markus Nissl, *The Temporal Vadalog System* 
-- Eric Alsmann, Martin Lange,   *Metric Linear-Time Temporal Logic with Strict First-Time Semantics* 
-- Luke Hunsberger, Roberto Posenato,    *A Better Algorithm for Converting an STNU into Minimal Dispatchable Form* 
-- Lyris Xu, Luke Dickens, Fabio Aurelio D'Asaro,    *A Translation of Probabilistic Event Calculus into Markov Decision Processes* (short talk)
-  
-**12:50 – 14:00** Lunch break
+**11:30 – 12:30** Session Chair: 
+- Veeti Ahvonen, *On the Connections Between Graph Transformers and GNNs*
+- Marco Sälzer, *The Polynomial Counting Capabilities of Message Passing Neural Networks* 
 
-**14:00 – 15:10**  Session 6: Spatio-temporal Reasoning (Chair: Florian Bruse)
-- Arthur Jansen, Bart Kuijpers, *Solutions to the generalised alibi query in moving object databases*  
-- Arthur Jansen, Bart Kuijpers,   *Visit probability in space-time prisms for moving object data* (short talk)
-- Nassim Belmecheri, *QualiNet: Acquiring Bird's Eye View Qualitative Spatial Representation from 2D Images in Automated Vehicle Perception* (short talk)
+**12:30 – 14:00**  Lunch break
+
+**14:00 – 15:30** Session Chair:
+- Chia-Hsuan Lu, *Decidability of Graph Neural Networks via Logical Characterizations*
+- François Schwarzentruber, *Verifying Quantized Graph Neural Networks is PSPACE-complete*
+
+**15:30 – 16:00**  Coffee break
+
+**16:00 – 17:30** Session Chair:
+- Damian Heiman, *Neural networks as fuzzy logic formulas*
+- Marek Černý, *Restricted-Conjunction Logic Turns Message Passing into Multiplicity Automata*
+- Hubie Chen, *Optimally Rewriting Formulas and Database Queries: A Confluence of Term Rewriting, Structural Decomposition, and Complexity*
 
 
 ## Organisation
