@@ -41,9 +41,7 @@ TBA
 
 ## PROGRAM (subject to change)
 
-
 ## Thursday 25 June 2026
-
 
 **9:45 – 10:00** Opening Talk
 
@@ -55,7 +53,7 @@ TBA
 
 **11:30 – 12:30** Session Chair: 
 - David Tena Cucala, *Practical Rule Extraction from Monotonic GNNs*
-- Przemek Wałęga, *Preservation Theorems for GNNs*
+- Przemysław Wałęga, *Preservation Theorems for GNNs*
 
 **12:30 – 14:00**  Lunch break
 
