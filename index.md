@@ -65,7 +65,7 @@ TBA
 **15:30 – 16:00**  Coffee break
 
 **16:00 – 17:00** Session Chair:
-- Discussion panel: Floris Geerts, François Schwarzentruber, Antti Kuusisto, Michael Benedikt, Bernardo Cuenca Grau
+- Discussion panel: Floris Geerts, François Schwarzentruber, Antti Kuusisto, Michael Benedikt
 
 
 ## Friday 26 June 2026
