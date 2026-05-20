@@ -12,7 +12,7 @@ h1:first-of-type {
 
 <p style="text-align: center"><img src="logo.png" width="100%"></p>
 
-We are delighted to organise a meeting on logics and graph neural networks (GNNs) in [Queen Mary University of London](https://www.qmul.ac.uk/)!
+We are delighted to organise a meeting on logics and graph neural networks (GNNs) in [Queen Mary University of London](https://www.qmul.ac.uk/).
 
 We observe a growing interest in combining logical and neural approaches, with GNNs proving to be a particularly well-suited AI architecture for such an integration. As a result, tight connections between logics and GNNs are attracting increasing attention, with current directions including:
 
@@ -22,7 +22,7 @@ We observe a growing interest in combining logical and neural approaches, with G
 - Rule learning and knowledge discovery with GNN models
 - Computational complexity of GNN architectures
 
-The aim of this meeting is to bring together international experts in this growing, but still relatively young, area to discuss recent results, ongoing work, and future directions.
+The aim of this meeting is to bring together researchers from this growing, but still relatively young, area to discuss recent results, ongoing work, and future directions.
 
 Talks are by invitation only, whereas attendance is open, but requires registration.
 
