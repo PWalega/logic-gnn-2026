@@ -64,9 +64,10 @@ TBA
 
 **15:30 – 16:00**  Coffee break
 
-**16:00 – 17:00** Session Chair:
+**16:00 – 17:30** Session Chair:
+- Veeti Ahvonen, *On the Connections Between Graph Transformers and GNNs*
+- Marco Sälzer, *The Polynomial Counting Capabilities of Message Passing Neural Networks* 
 - Discussion panel: Floris Geerts, François Schwarzentruber, Antti Kuusisto, Michael Benedikt
-
 
 ## Friday 26 June 2026
 
@@ -77,20 +78,20 @@ TBA
 **11:00 – 11:30**  Coffee break
 
 **11:30 – 12:30** Session Chair: 
-- Veeti Ahvonen, *On the Connections Between Graph Transformers and GNNs*
-- Marco Sälzer, *The Polynomial Counting Capabilities of Message Passing Neural Networks* 
+- Chia-Hsuan Lu, *Decidability of Graph Neural Networks via Logical Characterizations*
+- François Schwarzentruber, *Verifying Quantized Graph Neural Networks is PSPACE-complete*
 
 **12:30 – 14:00**  Lunch break
 
 **14:00 – 15:30** Session Chair:
-- Chia-Hsuan Lu, *Decidability of Graph Neural Networks via Logical Characterizations*
-- François Schwarzentruber, *Verifying Quantized Graph Neural Networks is PSPACE-complete*
+- Damian Heiman, *Neural networks as fuzzy logic formulas*
+- Marek Černý, *Restricted-Conjunction Logic Turns Message Passing into Multiplicity Automata*
+-
 
 **15:30 – 16:00**  Coffee break
 
-**16:00 – 17:30** Session Chair:
-- Damian Heiman, *Neural networks as fuzzy logic formulas*
-- Marek Černý, *Restricted-Conjunction Logic Turns Message Passing into Multiplicity Automata*
+**16:00 – 17:00** Session Chair:
+- Marc Roth, *The Weisfeiler-Leman Dimension of Conjunctive Queries*
 - Hubie Chen, *Optimally Rewriting Formulas and Database Queries: A Confluence of Term Rewriting, Structural Decomposition, and Complexity*
 
 
