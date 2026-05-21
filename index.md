@@ -45,53 +45,53 @@ TBA
 
 **9:45 – 10:00** Opening Talk
 
-**10:00 – 11:00** Session Chair:
-- Floris Geerts, *A Logical View of GNN-Style Computation and the Role of Activation Functions*
-- Jonni Virtema, *Unifying approach to uniform expressivity of graph neural networks*
+**10:00 – 11:00** 
+- Floris Geerts, *A Logical View of GNN-Style Computation and the Role of Activation Functions*, [paper](https://arxiv.org/abs/2512.19332)
+- Veeti Ahvonen, *On the Connections Between Graph Transformers and GNNs*, [paper](https://ojs.aaai.org/index.php/AAAI/article/view/39036)
 
 **11:00 – 11:30**  Coffee break
 
-**11:30 – 12:30** Session Chair: 
-- David Tena Cucala, *Practical Rule Extraction from Monotonic GNNs*
-- Przemysław Wałęga, *Preservation Theorems for GNNs*
+**11:30 – 12:30** 
+- David Tena Cucala, *Practical Rule Extraction from Monotonic GNNs* 
+- Przemysław Wałęga, *Preservation Theorems for GNNs*, [paper](https://arxiv.org/pdf/2602.01856)
 
 **12:30 – 14:00**  Lunch break
 
-**14:00 – 15:30** Session Chair:
-- Stan Hauke, *Aggregate-Combine-Readout GNNs Can Express Logical Classifiers Beyond the Logic C2*
-- Maurice Funk, *Towards Understanding the Expressive Power of GNNs with Global Readout*
-- Nicolas Troquard, *About Logic and Aggregate-Combine(-Readout) Graph Neural Networks over Integers*
+**14:00 – 15:30** 
+- Stan Hauke, *Aggregate-Combine-Readout GNNs Can Express Logical Classifiers Beyond the Logic C2*, [paper](https://ojs.aaai.org/index.php/AAAI/article/view/39308)
+- Maurice Funk, Daumantas Kojelis, *Towards Understanding the Expressive Power of GNNs with Global Readout*, [paper](https://arxiv.org/abs/2604.22870)
+- Nicolas Troquard, *About Logic and Aggregate-Combine(-Readout) Graph Neural Networks over Integers*, [paper 1](https://www.ijcai.org/proceedings/2024/391), [paper 2](https://arxiv.org/abs/2510.08045)
 
 **15:30 – 16:00**  Coffee break
 
-**16:00 – 17:00** Session Chair:
-- Discussion panel: Floris Geerts, François Schwarzentruber, Antti Kuusisto, Michael Benedikt
+**16:00 – 17:00** 
+- Discussion panel: Floris Geerts, Antti Kuusisto
 
 ## Friday 26 June 2026
 
-**10:00 – 11:00** Session Chair:
-- Antti Kuusisto, *Characterizing recurrent GNNs and NNs*
-- Eva Feng, *The Correspondence between Bounded GNNs and Fragments of FOL*
+**10:00 – 11:00** 
+- Antti Kuusisto, *Characterizing recurrent GNNs and NNs*, [paper 1](https://proceedings.neurips.cc/paper_files/paper/2024/file/bca7a9a0dd85e2a68420e5cae27eccfb-Paper-Conference.pdf), [paper 2](https://academic.oup.com/logcom/article-pdf/36/3/exag011/67302650/exag011.pdf)
+- Eva Feng, *The Correspondence between Bounded GNNs and Fragments of FOL*, [paper](https://arxiv.org/abs/2505.08021)
 
 **11:00 – 11:30**  Coffee break
 
-**11:30 – 12:30** Session Chair:
-- Veeti Ahvonen, *On the Connections Between Graph Transformers and GNNs*
-- Marco Sälzer, *The Polynomial Counting Capabilities of Message Passing Neural Networks* 
+**11:30 – 12:30** 
+- Jonni Virtema, *Unifying approach to uniform expressivity of graph neural networks*, [paper](https://arxiv.org/abs/2602.18409)
+- Marco Sälzer, *The Polynomial Counting Capabilities of Message Passing Neural Networks*, [paper](https://arxiv.org/pdf/2605.10393) 
 
 **12:30 – 14:00**  Lunch break
 
-**14:00 – 15:30** Session Chair:
-- Chia-Hsuan Lu, *Decidability of Graph Neural Networks via Logical Characterizations*
-- François Schwarzentruber, *Verifying Quantized Graph Neural Networks is PSPACE-complete*
-- Damian Heiman, *Neural networks as fuzzy logic formulas*
+**14:00 – 15:30** 
+- Chia-Hsuan Lu, *Decidability of Graph Neural Networks via Logical Characterizations*, [paper](https://arxiv.org/abs/2404.18151)
+- François Schwarzentruber, *Verifying Quantized Graph Neural Networks is PSPACE-complete*, [paper](https://www.ijcai.org/proceedings/2025/519)
+- Damian Heiman, *Neural networks as fuzzy logic formulas*, [paper](https://arxiv.org/abs/2605.03064)
 
 **15:30 – 16:00**  Coffee break
 
-**16:00 – 17:30** Session Chair:
-- Marc Roth, *The Weisfeiler-Leman Dimension of Conjunctive Queries*
-- Marek Černý, *Restricted-Conjunction Logic Turns Message Passing into Multiplicity Automata*
-- Hubie Chen, *Optimally Rewriting Formulas and Database Queries: A Confluence of Term Rewriting, Structural Decomposition, and Complexity*
+**16:00 – 17:30** 
+- Marc Roth, *The Weisfeiler-Leman Dimension of Conjunctive Queries*, [paper](https://arxiv.org/abs/2310.19006)
+- Marek Černý, *Restricted-Conjunction Logic Turns Message Passing into Multiplicity Automata*, [paper](https://arxiv.org/abs/2601.09506)
+- Hubie Chen, *Optimally Rewriting Formulas and Database Queries: A Confluence of Term Rewriting, Structural Decomposition, and Complexity*, [paper](https://arxiv.org/abs/2411.10229)
 
 
 ## Organisation
