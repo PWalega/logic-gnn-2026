@@ -89,9 +89,10 @@ TBA
 **15:30 – 16:00**  Coffee break
 
 **16:00 – 17:30** 
+- Hubie Chen, *Optimally Rewriting Formulas and Database Queries: A Confluence of Term Rewriting, Structural Decomposition, and Complexity*, [paper](https://arxiv.org/abs/2411.10229)
 - Marc Roth, *The Weisfeiler-Leman Dimension of Conjunctive Queries*, [paper](https://arxiv.org/abs/2310.19006)
 - Marek Černý, *Restricted-Conjunction Logic Turns Message Passing into Multiplicity Automata*, [paper](https://arxiv.org/abs/2601.09506)
-- Hubie Chen, *Optimally Rewriting Formulas and Database Queries: A Confluence of Term Rewriting, Structural Decomposition, and Complexity*, [paper](https://arxiv.org/abs/2411.10229)
+
 
 
 ## Organisation
