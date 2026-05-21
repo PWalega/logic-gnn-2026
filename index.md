@@ -24,8 +24,6 @@ We observe a growing interest in combining logical and neural approaches, with G
 
 The aim of this meeting is to bring together researchers from this growing, but still relatively young, area to discuss recent results, ongoing work, and future directions.
 
-Talks are by invitation only, whereas attendance is open, but requires registration.
-
 
 ## Venue
 
@@ -36,7 +34,9 @@ Maths Lecture Theatre—building number 4 [on the campus map](https://www.qmul.a
 
 ## Registration
 
-TBA
+For attendance the event please fill the [form](https://forms.gle/ujEh9JmK27GbQVRJ6).
+
+(Speakers and other invited researchers who have already filled out the separate form do not need to complete the above form.)
 
 
 ## PROGRAM (subject to change)
