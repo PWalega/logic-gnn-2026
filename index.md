@@ -34,7 +34,7 @@ Maths Lecture Theatre—building number 4 [on the campus map](https://www.qmul.a
 
 ## Registration
 
-For attendance the event please fill the [form](https://forms.gle/ujEh9JmK27GbQVRJ6).
+To attend the event please fill the [form](https://forms.gle/ujEh9JmK27GbQVRJ6).
 
 (Speakers and other invited researchers who have already filled out the separate form do not need to complete the above form.)
 
