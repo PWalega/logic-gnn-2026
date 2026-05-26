@@ -64,7 +64,10 @@ To attend the event please fill the [form](https://forms.gle/ujEh9JmK27GbQVRJ6).
 
 **15:30 – 16:00**  Coffee break
 
-**16:00 – 17:00** 
+**16:00 – 16:30** 
+- Brian Shi, *Graph Reasoning Agents at Neo4j: Integrating Graph Queries, Algorithms, and ML*
+
+**16:30 – 17:30** 
 - Discussion panel: Floris Geerts, Antti Kuusisto, Carsten Lutz, François Schwarzentruber
 
 ## Friday 26 June 2026
