@@ -53,7 +53,7 @@ To attend the event please fill the [form](https://forms.gle/ujEh9JmK27GbQVRJ6).
 
 **11:30 – 12:30** 
 - David Tena Cucala, *Practical Rule Extraction from Monotonic GNNs* 
-- Przemysław Wałęga, *Preservation Theorems for GNNs*, [paper](https://arxiv.org/pdf/2602.01856)
+- Przemysław Wałęga, *Preservation Theorems for GNNs*, [paper 1](https://arxiv.org/pdf/2602.01856), [paper 2](https://arxiv.org/abs/2606.17882)
 
 **12:30 – 14:00**  Lunch break
 
