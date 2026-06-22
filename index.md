@@ -34,7 +34,9 @@ Maths Lecture Theatre—building number 4 [on the campus map](https://www.qmul.a
 
 ## Registration
 
-To attend the event please fill the [form](https://forms.gle/ujEh9JmK27GbQVRJ6).
+To attend the event please fill the [form](https://forms.gle/ujEh9JmK27GbQVRJ6) - the registration will close on Tuesday 23 June.
+
+Please notice that filling the form is sufficient to register, and no confirmations will be sent to attendants.
 
 (Speakers and other invited researchers who have already filled out the separate form do not need to complete the above form.)
 
